@@ -1,2 +1,2 @@
-# youhack24
+# YOUHACK '24 OFFICIAL WALLAPAPER
 Youhack CTF 2024
